@@ -1,0 +1,43 @@
+[
+    {
+        "id": "0",
+        "name": "defaul todo",
+        "isDone": true
+    }, {
+        "id": "1",
+        "name": "Ekmek Alınacak",
+        "isDone": false
+    }, {
+        "id": "2",
+        "name": "Çöp Atılacak",
+        "isDone": true
+    }, {
+        "id": "3",
+        "name": "Şu Alınacak",
+        "isDone": false
+    }, {
+        "id": "4",
+        "name": "Bu yapılacak",
+        "isDone": false
+    }, {
+        "id": "5",
+        "name": "Bilmem ne",
+        "isDone": false
+    }, {
+        "id": "6",
+        "name": "Sana ne ?",
+        "isDone": false
+    }, {
+        "id": "7",
+        "name": "Kime Ne?",
+        "isDone": false
+    }, {
+        "id": "8",
+        "name": "Yerleri süpü",
+        "isDone": false
+    }, {
+        "id": "9",
+        "name": "Mutfağı topla",
+        "isDone": false
+    }
+]
